@@ -8,6 +8,6 @@
 
 ## Socials 
 
-<a href="https://www.linkedin.com/in/oleksandrkucenko/"><img align="left" src="https://github.com/Alexandr-gw/Alexandr-gw/assets/22914743/3d7075f7-9c6a-41f0-bb34-ee7890fd1778" alt="LinkedIn" width="21px"/></a>
-
-[https://github.com/Alexandr-gw/Alexandr-gw/assets/22914743/3d7075f7-9c6a-41f0-bb34-ee7890fd1778](https://www.linkedin.com/in/oleksandrkucenko/)
+<a href="https://www.linkedin.com/in/oleksandrkucenko/" rel="nofollow">
+LinkedIn
+</a>
