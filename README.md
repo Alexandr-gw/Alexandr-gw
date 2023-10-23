@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋! My name is Oleksandr Kutsenko 😄 🌍 I am a Front-End Developer based in Montréal, Canada 🇨🇦.
+
+# Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+Socials LinkedIn
 
 <!--
 **Alexandr-gw/Alexandr-gw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
