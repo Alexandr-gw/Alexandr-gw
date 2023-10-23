@@ -9,5 +9,5 @@
 ## Socials 
 
 <a href="https://www.linkedin.com/in/oleksandrkucenko/" rel="nofollow">
-LinkedIn
-</a>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" style="max-width: 100%;">
+</a> 
